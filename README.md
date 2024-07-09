@@ -48,11 +48,12 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7&labelColor=ffffff)
 
 ## 🚀 Projects
+- **GatorDeliverySystem**: This report outlines the AVL Tree-Based Delivery System, designed to efficiently manage andprocess delivery orders using self-balancing binary search trees. [View Project](https://github.com/archit0712/GatorGlideDelivery)
 - **CrimeSight**: An OracleSQL and ReactJS-based visualization platform for Los Angeles crime data. [View Project](https://github.com/archit0712/crime-sight-frontend)
 - **Social13**: A housing finder for University of Florida students, developed to streamline the search for on-campus housing. [View Project](https://social13.netlify.app/)
 - **Courthouse**: A Flutter-based app for facilitating online court proceedings, aiming to reduce meeting setup times and enhance legal process efficiency. [Demo Video](https://www.youtube.com/watch?v=BwnEG9jjaFc)
 - **ESS**: An encryption and steganography software designed to enhance text security through innovative Java algorithms. [Demo Video](https://www.youtube.com/watch?v=tEiVR_FNPxw)
-- - **GatorDeliverySystem**: This report outlines the AVL Tree-Based Delivery System, designed to efficiently manage andprocess delivery orders using self-balancing binary search trees. [View Project](https://github.com/archit0712/GatorGlideDelivery)
+
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to reach out!
 
