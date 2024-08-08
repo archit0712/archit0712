@@ -8,9 +8,9 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Archit Mittal</strong></samp></h2>
 <h3 align='center'><strong><a href="https://drive.google.com/file/d/1C7XxchuGqFk0713bWiYl9OOcZSW6zWEt/view?usp=sharing" target="_blank">Resume📑</a></strong></h3>
-<p align='center'>Full Stack Developer | Data Engineering Enthusiast | Computer Networks Aficionado</p>
+<p align='center'>Full Stack Developer | Data Engineering Enthusiast | GenAI Aficionado</p>
 
-<p align='left'> 📫 As a Master’s student in Computer Science at the University of Florida, I am deeply passionate about leveraging technology to solve complex problems. With a strong foundation in data engineering and computer networks, I aim to build scalable and impactful solutions. My work experience as a Full Stack Developer has equipped me with a hands-on approach to technology, and I'm always eager to explore new innovations in the field.</p>
+<p align='left'> 📫 As a Master’s student in Computer Science at the University of Florida, I am deeply passionate about leveraging technology to solve complex problems. With a strong foundation in data engineering and genAI, I aim to build scalable and impactful solutions. My work experience as a Full Stack Developer has equipped me with a hands-on approach to technology, and I'm always eager to explore new innovations in the field.</p>
 
 ## 🎓 Education
 - **Master’s of Science in Computer Science**, University of Florida, Gainesville, USA (Aug 2023 - Dec 2024)
