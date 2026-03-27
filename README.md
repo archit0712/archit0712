@@ -2,7 +2,7 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Archit%20Mittal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/architmittal712/)
-[![Mail](https://img.shields.io/badge/Email-mittalarchit@ufl.edu-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mittalarc2001@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-mittalarc2001@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mittalarc2001@gmail.com)
 <br>
 
 
